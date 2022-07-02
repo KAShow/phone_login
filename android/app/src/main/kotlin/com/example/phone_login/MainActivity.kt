@@ -1,4 +1,4 @@
-package com.example.phone_login
+package sa.scrash.app
 
 import io.flutter.embedding.android.FlutterActivity
 
