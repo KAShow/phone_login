@@ -50,7 +50,7 @@ class _LoginScreenState extends State<LoginScreen>
                 },
                 initialSelection: "SA",
                 showCountryOnly: true,
-                favorite: ["+966","SA"],
+                favorite: ["+966","SA","+973","BH"],
               ),
             ),
 

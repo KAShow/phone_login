@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Image.asset("assets/welcome.jpg"),
+          Image.asset("images/welcome.jpg"),
           Container(
             margin: EdgeInsets.all(65),
             width: double.infinity,

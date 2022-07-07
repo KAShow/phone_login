@@ -1,4 +1,4 @@
-import 'dart:ffi';
+import 'package:ffi/ffi.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -83,7 +83,7 @@ class _OTPControllerScreenState extends State<OTPControllerScreen>
 
           Padding(
             padding: const EdgeInsets.all(8.0),
-            child: Image.asset("assets/otp.png"),
+            child: Image.asset("images/otp.png"),
           ),
           Container(
             margin: EdgeInsets.only(top: 20),

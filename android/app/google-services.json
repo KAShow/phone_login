@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164970130604",
+    "project_id": "scrashsaudi",
+    "storage_bucket": "scrashsaudi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164970130604:android:989e79b24010cf29770309",
+        "android_client_info": {
+          "package_name": "sa.scrash.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164970130604-ucgn62t2l3k05s709e9fsnt9i1pk6v5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sa.scrash.app",
+            "certificate_hash": "05e13e05fe2a00e86358778d7021a0cecd2d6000"
+          }
+        },
+        {
+          "client_id": "164970130604-gg52m6gfo9ffvk1kvtpiulgssm6ieaf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0yMTgtdOqdQYOws3goncs6URFpAOlW4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164970130604-gg52m6gfo9ffvk1kvtpiulgssm6ieaf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
